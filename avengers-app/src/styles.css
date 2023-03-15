@@ -1,0 +1,13 @@
+.code-play{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+span{
+    color: white;
+}
